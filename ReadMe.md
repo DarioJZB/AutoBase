@@ -14,7 +14,7 @@ This project establishes a databse of vehicles, which include cars, trucks and m
 To install, clone this repository and open in any code editor.
 
 ## Usage
-Before using this code, take all necessary steps to download node to your code editor. To properly use this code, type "node index.js" on the command line and a command line prompt application will guide you through creating/selecting from the database.
+Before using this code, take all necessary steps to download node to your code editor. To properly use this code, type "node index.js" on the command line and a command line prompt application will guide you through creating/selecting from the database. Here is a [link](https://watch.screencastify.com/v/GI9QSaLkKHULx7XRMVjL) to a video demonstration.
 
 ## License
 This project follows the MIT license.
